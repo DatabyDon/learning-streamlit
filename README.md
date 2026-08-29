@@ -24,7 +24,7 @@ Using the **Get started** section — checklist mirrors its structure on docs.st
 ### 🚀 Get started
 - [x] Installation
   - [ ] Local development
-    - [ ] Use Streamlit Playground
+    - ✅ Use Streamlit Playground
     - [ ] Install via command line
     - [ ] Install via Anaconda Distribution
   - [ ] Cloud development
