@@ -7,7 +7,7 @@ Working through the official [Get Started Streamlit documentation](https://docs.
 As I continue building toward AI Integration / Applied AI Engineering, Streamlit is the fastest way to turn data and ML work into something people can actually click through. Steamlit is:
 
 
-🌐 **Open-source** – Community-driven development.
+🌐 **Free & Open-source** – Community-driven development.
 
 🐍 **Python-native** – Built entirely in Python.
 
@@ -56,6 +56,7 @@ Using the **Get started** section — checklist mirrors its structure on docs.st
 learning-streamlit/
 ├── README.md
 └── notes.md
+└── app.py
 ```
 
 ## Notes & Key Learnings
