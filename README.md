@@ -21,17 +21,26 @@ This is a hands-on pass through the docs rather than a single project — the go
 
 Using the **Get started** section — checklist mirrors its structure on docs.streamlit.io down to the sub-page level. I'll check items off as I work through them and link to the relevant script/notebook in this repo where applicable. More sections (Develop, Deploy, Knowledge base) will get added here as the series continues.
 
+### 🏷️ Status Legend
+
+| Emoji | Meaning | Description |
+| :---: | :--- | :--- |
+| ✅ | **Done** | Completed and documented this section. |
+| ✍️ | **In Progress** | Section I'm currently working on. |
+| ➖ | **Skipped/Removed** | Writing or updating documentation. |
+| [ ] | **Not Started** | Writing or updating documentation. |
+
 ### 🚀 Get started
 - [x] Installation
-  - [ ] Local development
+  - ✅ Local development
     - ✅ Use Streamlit Playground
-    - [ ] Install via command line
-    - [ ] Install via Anaconda Distribution
-  - [ ] Cloud development
-    - [ ] Use GitHub Codespaces
-    - [ ] Use Snowflake
+    - ✅ Install via command line
+    - ➖ Install via Anaconda Distribution
+  - ➖ Cloud development
+    - ➖ Use GitHub Codespaces
+    - ➖ Use Snowflake
 - [ ] Fundamentals
-  - [ ] Basic concepts
+  - ✍️ Basic concepts
   - [ ] Advanced concepts
   - [ ] Additional features
   - [ ] Summary
