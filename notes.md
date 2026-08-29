@@ -74,5 +74,10 @@ Since python already uses sequential execution (running from top to bottom), thi
 
 In this section I created a file for each demonstration and will share notes under each.
 
+Magic App
+- uses a **magic command** to show a dataframe created using pandas.
+
+> Magic commands are a feature in Streamlit that allows you to write almost anything (markdown, data, charts) without having to type an explicit command at all. Just put the thing you want to show on its own line of code, and it will appear in your app. Here's an example:
+
 Write App
-- uses `st.write()` to display some sample data provided in the documentation
+- uses `st.write()` to display the same sample data from the Magic App
