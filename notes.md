@@ -86,11 +86,10 @@ Interesting thing about adding a table to the app is all the additional features
 
 When displaying a DataFrame in Streamlit, users can:
 
-- ↕️ **Sort ascending**
-- ↕️ **Sort descending**
+- ↕️ **Sort ascending/descending**
 - 📊 **View statistics**
 - 🎨 **Format columns**
 - ↔️ **Autosize columns**
 - 📌 **Pin columns**
-- 👁️ **Hide columns**
+- 🫣 **Hide columns**
 
