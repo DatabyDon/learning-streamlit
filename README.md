@@ -57,6 +57,8 @@ learning-streamlit/
 ├── README.md
 └── notes.md
 └── app.py
+└── magic.py
+└── write.py
 ```
 
 ## Notes & Key Learnings
