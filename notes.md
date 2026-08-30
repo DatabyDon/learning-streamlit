@@ -76,6 +76,7 @@ In this section I created a file for each demonstration and will share notes und
 
 **[Magic App](magic.py)**
 - uses a **[magic command](https://docs.streamlit.io/develop/api-reference/write-magic/magic)** to show a dataframe created using pandas.
+- I later came back to add the dataframe as a static table using `st.table(df)`
 
 **[Write App](write.py)**
 - uses `st.write()` to display the same sample data from the Magic App
