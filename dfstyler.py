@@ -16,3 +16,6 @@ dataframe = pd.DataFrame(
 
 # Using a Styler, we can highlight the max value in each column
 st.dataframe(dataframe.style.highlight_max(axis=0))
+
+# V3
+st.table(dataframe)
