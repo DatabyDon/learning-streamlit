@@ -97,3 +97,21 @@ When displaying a DataFrame in Streamlit, users can:
 - This was fun. I made 3 tables in 3 different ways and even got to add highlighting using the Styler.
 - I also split each table into a version to see how updating an exisitng app works even using the same veriable. It was as expected, each of the 3 tables were in the app. 
 
+**[Line Chart App](line_chart.py)**
+- The default line chart came out really nice
+- includes:
+    - tooltip
+    - a show data button
+    - can download as PNG
+    - make it fullscreen
+    - or "Copy Vega-lite spec" which idk what that is yet
+
+**[Map App](map.py)**
+- notes
+
+### Widgets
+
+**[Widgets App](widgets.py)**
+- notes
+
+### Layout
