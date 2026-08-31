@@ -40,8 +40,8 @@ Using the **Get started** section — checklist mirrors its structure on docs.st
     - ➖ Use GitHub Codespaces
     - ➖ Use Snowflake
 - [ ] Fundamentals
-  - ✍️ Basic concepts
-  - [ ] Advanced concepts
+  - ✅ Basic concepts
+  - ✍️ Advanced concepts
   - [ ] Additional features
   - [ ] Summary
 - [ ] First steps

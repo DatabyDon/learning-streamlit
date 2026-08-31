@@ -123,3 +123,12 @@ When displaying a DataFrame in Streamlit, users can:
     - selectboxes
 
 ### Layout
+
+**[Layout App](layout.py)**
+- Here I created a sidebar to show how to organize widgets
+- You can use `st.columns` to put widgets side by side
+
+**[Progress App](progress.py)**
+- This demos the ability to show a progress bar go from 0 to 100
+
+## Advanced Concepts
