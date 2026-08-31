@@ -59,11 +59,8 @@ learning-streamlit/
 └── app.py
 └── magic.py
 └── write.py
+└── dfstyler.py
 ```
-
-## Notes & Key Learnings
-
- 🚧_Coming soon_🚧
 
 ## Resources
 

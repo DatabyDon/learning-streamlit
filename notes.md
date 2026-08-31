@@ -94,4 +94,6 @@ When displaying a DataFrame in Streamlit, users can:
 - 🫣 **Hide columns**
 
 **[Dataframe Styler App](dfstyler.py)**
+- This was fun. I made 3 tables in 3 different ways and even got to add highlighting using the Styler.
+- I also split each table into a version to see how updating an exisitng app works even using the same veriable. It was as expected, each of the 3 tables were in the app. 
 
