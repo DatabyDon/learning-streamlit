@@ -107,9 +107,12 @@ When displaying a DataFrame in Streamlit, users can:
     - or "Copy Vega-lite spec" which idk what that is yet
 
 **[Map App](map.py)**
-- notes
+- in this one, we passed latitude and longitude data to create a map
+- only able to make fullscreen without any additional coding
+- uses OpenStreetMap
 
 ### Widgets
+- notes
 
 **[Widgets App](widgets.py)**
 - notes
