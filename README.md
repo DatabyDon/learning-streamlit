@@ -56,10 +56,17 @@ Using the **Get started** section — checklist mirrors its structure on docs.st
 learning-streamlit/
 ├── README.md
 └── notes.md
-└── app.py
-└── magic.py
-└── write.py
-└── dfstyler.py
+└── first_app.py
+└── basic/
+  └── magic.py          # Uses magic commands to display a dataframe
+  └── write.py          # Uses st.write to create dataframe
+  └── dfstyler.py       # Dataframe formatting with Styler
+  └── line_chart.py     # Simple line chart based on data
+  └── map.py            # Simple map based on lat & lon data
+  └── layout.py         # Created a left panel and columns of widgets
+  └── progress.py       # Created a loading progress bar
+└── advanced/
+
 ```
 
 ## Resources
