@@ -112,9 +112,14 @@ When displaying a DataFrame in Streamlit, users can:
 - uses OpenStreetMap
 
 ### Widgets
-- notes
 
 **[Widgets App](widgets.py)**
-- notes
+- This is where we get to add interactivity to the apps
+- same as the other streamlit objects, we treat widgets as variables
+- Here I learned to create
+    - sliders
+    - input boxes
+    - checkboxes to show/hide
+    - selectboxes
 
 ### Layout
