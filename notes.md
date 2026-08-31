@@ -93,3 +93,5 @@ When displaying a DataFrame in Streamlit, users can:
 - 📌 **Pin columns**
 - 🫣 **Hide columns**
 
+**[Dataframe Styler App](dfstyler.py)**
+
