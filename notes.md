@@ -132,3 +132,31 @@ When displaying a DataFrame in Streamlit, users can:
 - This demos the ability to show a progress bar go from 0 to 100
 
 ## Advanced Concepts
+
+### Caching
+- caching stores results of functions allowing us to return the cached result when the same data is needed.
+- I can use `st.cache_data`to cache computations and return seriable data objects (str, int, float, etc.)
+    - It creates a new copy of the data at each function call
+- there's also `st.cache_resource` for ML models and database connections
+    - it returns the cached object itself
+    - exists across all reruns and sessions
+
+### Session State
+- Streamlit allows you to store and retrieve session details with `st.session_state`. Most widgets handle their own statfulness so you may not have to use it.
+
+### Connections
+- preset, cache connections are available with `st.connection`
+- a great use for this is a database
+- to store info for us to connect to other sources, Streamlit has a way to use secrets management
+    - I can save secrets in a toml file (secrets.toml)
+
+Example:
+[connections.my_database]
+    type="sql"
+    dialect="mysql"
+    username="xxx"
+    password="xxx"
+    host="example.com" # IP or URL
+    port=3306 # Port number
+    database="mydb" # Database name
+
