@@ -56,7 +56,7 @@ Using the **Get started** section — checklist mirrors its structure on docs.st
 learning-streamlit/
 ├── README.md
 └── notes.md
-└── first_app.py
+└── test_app.py
 └── basic/
   └── magic.py          # Uses magic commands to display a dataframe
   └── write.py          # Uses st.write to create dataframe

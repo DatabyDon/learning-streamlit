@@ -43,7 +43,7 @@ flowchart TD
 This flow works really well having my editor on one side and my brower on the other as suggested by Streamlit's docs. This proved to be an easy workflow when I tested it with my app.py I previously made.
 
 1. **Activated my virtual environment**
-2. **Ran my app**
+2. **Ran my test app**
 3. **Updated the app** from `Hello World!` → `Hello Worlds!`
 4. **Saved the app file**
 5. **Refreshed my browser**
@@ -160,3 +160,25 @@ Example:
     port=3306 # Port number
     database="mydb" # Database name
 
+## Additional Features
+
+### Theming
+- Streamlit already had light and dark themes out of the box and matches the users system settings by default
+- Even better, I can add my own theme to an app
+- This can be done in the settings of the app or manually in the config.toml file.
+
+### Pages
+- I can use `st.Page` to create pages and then `st.navigation` to bring it all together
+- each page will have it's own python file and the primary app file can consist of the complete navigation setup
+
+### AI Coding Skills
+- streamlit has their own coding skills
+- they also mention some custom components that the community has developed
+
+### Static File Sharing
+- while what I have built so far is local, my goal is to host an app
+- Streamlit "requires setting the correct configuration and placing your hosted files in a directory named **static**"
+
+### App testing
+- Streamlit has its own out of the box testing and works with **pytest**
+- This area has its own documentation
