@@ -39,14 +39,12 @@ Using the **Get started** section — checklist mirrors its structure on docs.st
   - ➖ Cloud development
     - ➖ Use GitHub Codespaces
     - ➖ Use Snowflake
-- [ ] Fundamentals
+- ✅ Fundamentals
   - ✅ Basic concepts
-  - ✍️ Advanced concepts
-  - [ ] Additional features
-  - [ ] Summary
-- [ ] First steps
-  - [ ] Create an app
-  - [ ] Create a multipage app
+  - ✅ Advanced concepts
+  - ✅ Additional features
+  - ✅ Summary
+
 
 ## Repo Structure
 
@@ -65,8 +63,6 @@ learning-streamlit/
   └── map.py            # Simple map based on lat & lon data
   └── layout.py         # Created a left panel and columns of widgets
   └── progress.py       # Created a loading progress bar
-└── advanced/
-
 ```
 
 ## Resources
