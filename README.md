@@ -31,19 +31,20 @@ Using the **Get started** section — checklist mirrors its structure on docs.st
 | [ ] | **Not Started** | Writing or updating documentation. |
 
 ### 🚀 Get started
-- [x] Installation
+- ✅ Installation
   - ✅ Local development
     - ✅ Use Streamlit Playground
     - ✅ Install via command line
     - ➖ Install via Anaconda Distribution
-  - ➖ Cloud development
-    - ➖ Use GitHub Codespaces
+  - ✅ Cloud development
+    - ✅ Use GitHub Codespaces
     - ➖ Use Snowflake
 - ✅ Fundamentals
   - ✅ Basic concepts
   - ✅ Advanced concepts
   - ✅ Additional features
   - ✅ Summary
+- ➖ First Steps
 
 
 ## Repo Structure
